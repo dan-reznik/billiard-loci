@@ -33,7 +33,9 @@ knitr::opts_chunk$set(
 
 The pages below contain 100s of loci of triangle centers for N-periodics in the elliptic billiard, more info in [@reznik2019-intelligencer].
 
-# Loci of X(1) to X(100) for:
+# Loci of X(1)~X(100)
+
+The following image galleries have been assembled:
 
 1. [3-periodics](loci.html)
 1. 3-periodics and [derived triangles](loci_6tri.html)
