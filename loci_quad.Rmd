@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 
 Consider the family of non-intersecting, quadrangular ($N=4$) orbits in an elliptic billiard, $a/b=1.5$. Each quadrangle contains a single distinct subtriangle (up to cyclic symmetry), e.g., defined by vertices 123:
 
-```{r,echo=F,out.width="33%"}
+```{r,echo=F,out.width="40%"}
 knitr::include_graphics("subtris/subtris_N=4.png")
 ```
 

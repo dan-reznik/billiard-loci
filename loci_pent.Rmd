@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 
 Consider the family of non-intersecting, pentagonal ($N=5$) orbits in an elliptic billiard, $a/b=1.5$. Each pentagon contains two distinct subtriangles (up to cyclic symmetry), e.g., defined by vertices 123 and 124:
 
-```{r,echo=F,out.width="50%"}
+```{r,echo=F,out.width="70%"}
 knitr::include_graphics("subtris/subtris_N=5.png")
 ```
 
